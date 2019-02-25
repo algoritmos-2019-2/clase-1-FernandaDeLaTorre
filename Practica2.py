@@ -1,0 +1,36 @@
+1. ¿Por qué son ventajosas las funciones para tener en sus programas?
+
+2. ¿Cuándo se ejecuta el código de una función: cuando se define la función o cuando se llama a la función?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

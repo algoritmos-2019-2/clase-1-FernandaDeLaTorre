@@ -1,0 +1,40 @@
+Práctica1
+¿Cuáles son los dos valores del tipo de datos booleano? ¿Cómo se escriben?
+Son dos, se escriben True y False. 
+
+¿Cuáles son los tres operadores booleanos?
+And, or y not.
+
+¿Cuáles son los seis tipos de operadores de comparación?
+Son: <,>, <=,>=,==,!=. 
+
+¿Cuál es la diferencia entre el operador igual y el operador de asignación?
+El operador de asignación es un operador binario, es decir, asigna un valor al lado derecho de la expresión o al lado izquierdo, por ejemplo x=y. Mientras que el operador igual es un operador binario que opera en dos operandos que compara respecto a su valor booleano. 
+
+Explique que es una condición y dónde la utilizaría. 
+
+Son expresiones que están contenidas en un lenguaje de programación que tienen como únicos posibles valores verdadero o falso. En el caso de la programación, emplearía las condicionales en loops while ya que la estructura de un ciclo de este nombre siempre está evaluando si cierta característica se cumple evaluando en verdadero o falso. 
+
+¿Qué puede hacer si un programa está atascado en un bucle infinito?
+Se puede detener el bucle con CTRL-C y eso mata el comando, pero no el bucle infinito; para matar el proceso se teclea killed con el process id en el top o también con K se puede deshacer del programa sin problema alguno. 
+
+¿Cuál es la diferencia entre romper y continuar?
+La sentencia romper permite terminar de forma abrupta el bucle y la sentencia continuar permite saltarse algunas repeticiones del bucle for. 
+
+¿Cuál es la diferencia entre rango (10), (0, 10) y rango (0, 10, 1) en un bucle for?
+
+
+La función rango tiene una sintaxis parecida a rango(inicio,alto, pasos), el argumento inicio es el primer número de la secuencia que por ende va a ser el menor si está presente, sino por default empieza en cero. El argumento alto, es el límite superior de la serie el cuál no se imprime.Por último el argumento paso, es la diferencia entre cada resultado de números, el que está por default es de uno en uno.Entonces si se programara for i in range(10), lo que se imprimirá es 0,1,2,3,4,5,6,7,8,9 para for i range (0,10) se imprimirá lo mismo ya que no se especificó la diferencia entre números sólo los límites superior e inferior, igualmente el último se imprimirá igual ya que la diferencia es la misma a la default.a
+
+
+
+
+
+
+
+
+
+
+
+
+

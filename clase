@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+
+print('NUMERO FACTORIAL')
+
+import math
+
+num = input("Numero")
+x= int(num)
+
+
+factorial = math.factorial(x)
+
+print("Factorial es:", factorial)
+
+
+
+
